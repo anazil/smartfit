@@ -1,0 +1,26 @@
+.heading{
+    font-weight: 700;
+    font-size: 58px;
+}
+.s-main{
+    text-align: center;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.f-he{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+.f-pa{
+    text-align: center;
+}
+.box{
+    width: 480px;
+    height: 200px;
+    border: 1px solid rgb(230, 221, 221);
+} 
+.review{
+    padding-left: 14px;
+
+}   
